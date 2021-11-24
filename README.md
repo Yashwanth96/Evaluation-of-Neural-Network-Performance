@@ -1,7 +1,7 @@
 # MNIST-FASHION-DATASET
 
 
-Evaluation of Neural Network Performance with CPU, GPU and TPU using CUDA Functionality
+Evaluation of Neural Network Performance with CPU, GPU and TPU
 
 ## Description
 
