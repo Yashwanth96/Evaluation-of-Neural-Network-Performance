@@ -1,7 +1,5 @@
 
-
-
-##Evaluation of Neural Network Performance with CPU, GPU and TPU
+#Evaluation of Neural Network Performance with CPU, GPU and TPU
 
 ## Description
 
